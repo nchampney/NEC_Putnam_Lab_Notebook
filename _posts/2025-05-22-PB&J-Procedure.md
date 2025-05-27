@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PB and J Protocol
+title: PB and J Procedure
 tags: Protocol
 ---
 
