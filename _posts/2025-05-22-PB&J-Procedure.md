@@ -9,7 +9,7 @@ tags: Protocol
 #### Need a quick lunch or a delicious snack? Follow these simple steps to creating your own, very best PB&J sandwich 
 
 
-![PB&J] (grilled-peanut-butter-jelly-7.jpg)
+![PB&J](images/grilled-peanut-butter-jelly-7.jpg)
 
 ## Materials and Equipment
 - A loaf of your favorite bread (I like sourdough)
@@ -27,4 +27,4 @@ tags: Protocol
 5. Slice in half along the diagonal, serve on your plate of choice, and enjoy!
 
 
-![2nd PB&J](grilled-pb-and-j.jpg)
+![2nd PB&J](images/grilled-pb-and-j.jpg)
