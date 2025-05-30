@@ -44,4 +44,4 @@ DNA Standards: 135.07 (S1) and 12167.49 (S2)
 
 Ran at 80 volts for 45 minutes-- the first 6 slots have Federica's samples
 
-![gel image](.../images/20250529_155459.jpg)
+![gel image](../images/20250529_155459.jpg)
