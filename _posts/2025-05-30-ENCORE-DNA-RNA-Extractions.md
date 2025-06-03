@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2025-05-29 ENCORE RNA and DNA Extractions
-date: '2025-05-29'
+title: 2025-05-30 ENCORE RNA and DNA Extractions
+date: '2025-05-30'
 categories: Processing
 tags: [DNA, RNA, ENCORE]
 ---
 
-## RNA and DNA Extractions for ENCORE Project, May 29, 2025
+## RNA and DNA Extractions for ENCORE Project, May 30, 2025
 
 ### [Protocol Link](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/172f01784174bebceccae246c713908b109356b2/protocols/2025-05-28-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
