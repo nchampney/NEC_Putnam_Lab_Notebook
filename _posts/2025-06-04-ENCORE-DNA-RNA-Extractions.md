@@ -48,6 +48,6 @@ DNA Standards: 161.13 (S1) and 18513.88 (S2)
 
 ## DNA and RNA Quality Check gel
 
-Ran at 80 volts for 45 minutes-- most of the MD-2-26 RNA sample dissapated into the buffer and did not make it into the well. About half of the MD-4-3 RNA sample also dissapated into the buffer.
+Ran at 80 volts for 45 minutes-- most of the MD-2-26 RNA sample dissipated into the buffer and did not make it into the well. About half of the MD-4-3 RNA sample also dissipated into the buffer.
 
 ![gel image](../images/06-04-2025-gel.jpg)
