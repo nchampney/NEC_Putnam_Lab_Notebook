@@ -44,4 +44,4 @@ DNA Standards: 161.53 (S1) and 21533.14 (S2)
 
 Ran at 80 volts for 45 minutes-- the first 6 slots have Flo's samples
 
-![gel image](../images/IMG_0451%20copy.jpg)
+![gel image](../images/Gel_DNA_RNA_30May2025_NC.jpg)

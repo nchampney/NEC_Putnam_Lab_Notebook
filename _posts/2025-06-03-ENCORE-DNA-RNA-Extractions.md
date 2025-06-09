@@ -50,4 +50,4 @@ DNA Standards: 161.21 (S1) and 16414.33 (S2)
 
 Ran at 80 volts for 45 minutes
 
-![gel image](../images/2025-06-03-gel.jpg)
+![gel image](../images/Gel_DNA_RNA_03June2025_NC.jpg)

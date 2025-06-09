@@ -59,8 +59,8 @@ Ran at 80 volts for 45 minutes
 
 Gel from first round 
 
-![gel image](../images/2025-06-06-gel.jpg)
+![gel image](../images/Gel_DNA_RNA_06June2025_NC1.jpg)
 
 Gel from second round
 
-![gel image](../images/2025-06-06-gel2.jpg)
+![gel image](../images/Gel_DNA_RNA_06June2025_NC.jpg)
