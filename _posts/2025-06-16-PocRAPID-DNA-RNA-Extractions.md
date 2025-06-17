@@ -11,7 +11,7 @@ tags: [DNA, RNA, PocRAPID]
 ### [Protocol Link](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/172f01784174bebceccae246c713908b109356b2/protocols/2025-05-28-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
 
-### Extraction of 6 poculopora larva samples from PocRAPID project. The samples were collected in Bermuda throughout 2024. 
+### Extraction of 6 pocillopora larva samples from PocRAPID project. The samples were collected in Bermuda throughout 2024. 
 
 ### Samples
 
@@ -34,12 +34,12 @@ DNA Standards: 180.13 (S1) and 28959.06 (S2)
 
 | colony_id | Species                   | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|---------------------------|------------|------------|--------------|
-| 145       | *Poculopora*	         	|     -      | 3.48       |   3.48       |
-| 146       | *Poculopora*	            |   3.62     | 5.60       |   4.61       |
-| 147       | *Poculopora*	            |     -      | 2.94       |   2.94       |
-| 148       | *Poculopora*	            |   2.98     | 5.76       |   4.37       |
-| 152       | *Poculopora*	            |   6.04     | 9.52       |   7.78       |
-| 153       | *Poculopora*	            |   5.38     | 8.68       |   7.03       |
+| 145       | *Pocillopora*	         	|     -      | 3.48       |   3.48       |
+| 146       | *Pocillopora*	            |   3.62     | 5.60       |   4.61       |
+| 147       | *Pocillopora*	            |     -      | 2.94       |   2.94       |
+| 148       | *Pocillopora*	            |   2.98     | 5.76       |   4.37       |
+| 152       | *Pocillopora*	            |   6.04     | 9.52       |   7.78       |
+| 153       | *Pocillopora*	            |   5.38     | 8.68       |   7.03       |
 
 
 
@@ -47,12 +47,12 @@ RNA Standards: 431.22 (S1) and 8176.96 (S2)
 
 | colony_id | Species                   | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|---------------------------|------------|------------|--------------|
-| 145       | *Poculopora*	         	|   27.8     | 27.8       |   27.8       |
-| 146       | *Poculopora*	            |   42.8     | 37.8       |   40.3       |
-| 147       | *Poculopora*	            |   14.8     | 15.8       |   15.3       |
-| 148       | *Poculopora*	            |   32.0     | 36.0       |   34.0       |
-| 152       | *Poculopora*	            |   64.2     | 65.4       |   64.8       |
-| 153       | *Poculopora*	            |   70.0     | 76.8       |   73.4       |
+| 145       | *Pocillopora*	         	|   27.8     | 27.8       |   27.8       |
+| 146       | *Pocillopora*	            |   42.8     | 37.8       |   40.3       |
+| 147       | *Pocillopora*	            |   14.8     | 15.8       |   15.3       |
+| 148       | *Pocillopora*	            |   32.0     | 36.0       |   34.0       |
+| 152       | *Pocillopora*	            |   64.2     | 65.4       |   64.8       |
+| 153       | *Pocillopora*	            |   70.0     | 76.8       |   73.4       |
 
 
 - DNA samples in box 1 in -20 freezer, RNA samples in box 1 in -80 freezer
