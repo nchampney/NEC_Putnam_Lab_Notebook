@@ -64,6 +64,6 @@ RNA Standards: 409.15 (S1) and 8128.22 (S2)
 
 Ran at 80 volts for 45 minutes
 
-![gel image](../images/2025-06-16-PocRAPID-gel.jpg)
+![gel image](../images/2025-06-17-PocRAPID-gel.jpg)
 
 Gel Notes: Barely any of the 160 DNA sample made it into the well and most of many of the RNA samples also dissipated into the buffer.
