@@ -1,3 +1,4 @@
+---
 layout: post
 title: 2025-06-04 ENCORE RNA and DNA Extractions
 date: '2025-06-04'
