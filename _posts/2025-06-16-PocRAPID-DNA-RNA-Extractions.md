@@ -22,7 +22,7 @@ The sample ID numbers are 145, 146, 147, 148, 152, and 153.
 - Not much DNA/RNA shield in the samples so I did not get 400 uL eluted from the original sample-- maybe use less beads next time to help
 - Marked extracted samples with a dot on the top of the sample tubes
 - Did 2 700uL washes for the RNA
-- For sample prep bead beat was used in the original tube and vortexed for and additional 1 minute. 
+- For sample prep bead beat was used in the original tube and vortexed for 1 minute. 
 - Eluted to 80 uL 
 
 ## Qubit Results

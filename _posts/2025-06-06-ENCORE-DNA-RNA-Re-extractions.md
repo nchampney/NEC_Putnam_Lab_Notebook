@@ -19,7 +19,7 @@ These samples were selected chosen to be re-extracted after having low yields th
 ## Notes
 
 - Followed the linked protocol exactly 
-- For sample prep bead beat was used in the original tube and vortexed for and additional 1 minute. 
+- For sample prep bead beat was used in the original tube and vortexed for an additional 1 minute. 
 - Eluted to 80 uL 
     - for samples MD-2-25, MD-2-17, MD-4-12, and MD-5-14 the DNA was extracted to 100 uL
 

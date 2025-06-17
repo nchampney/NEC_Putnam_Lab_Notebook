@@ -19,7 +19,7 @@ These samples were selected chosen to be re-extracted after having low yields th
 ## Notes
 
 - Followed the linked protocol exactly 
-- For sample prep bead beat was used in the original tube and vortexed for and additional 1 minute. 
+- For sample prep bead beat was used in the original tube and vortexed for an additional 1 minute. 
 - RNA was eluted to 80 uL and DNA was eluted to 100 uL
     
 
