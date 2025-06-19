@@ -25,7 +25,7 @@ These samples were selected chosen to be re-extracted after having low yields th
 
 ## Qubit Results
 
-- Used Broad rand dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
+- Used Broad range RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
 - All samples read twice, standard only read once
 
 First round 

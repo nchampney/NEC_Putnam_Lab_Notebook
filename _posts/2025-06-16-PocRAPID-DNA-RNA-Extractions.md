@@ -27,7 +27,7 @@ The sample ID numbers are 145, 146, 147, 148, 152, and 153.
 
 ## Qubit Results
 
-- Used Broad rand dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
+- Used Broad range dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
 - All samples read twice, standard only read once
 
 DNA Standards: 180.13 (S1) and 28959.06 (S2)

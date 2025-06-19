@@ -23,7 +23,7 @@ These samples were selected randomly from the a total of 100 samples. The sample
 
 ## Qubit Results
 
-- Used Broad rand dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
+- Used Broad range dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
 - All samples read twice, standard only read once
 
 RNA Standards: 384.67 (S1) and 8158.86 (S2)
