@@ -32,27 +32,27 @@ The sample ID numbers are 163, 164, 168, 169, 170, and 171.
 
 DNA Standards: 144.56 (S1) and 19346.80 (S2)
 
-| colony_id | Species                   | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
-|-----------|---------------------------|------------|------------|--------------|
-| 163       | *Pocillopora*	         	|   3.22     | 4.30       |   3.76       |
-| 164       | *Pocillopora*	            |     -      | 3.36       |   3.36       |
-| 168       | *Pocillopora*	            |     -      | 3.32       |   3.32       |
-| 169       | *Pocillopora*	            |     -      | 3.92       |   3.92       |
-| 170       | *Pocillopora*	            |   2.72     | 4.74       |   3.73       |
-| 171       | *Pocillopora*	            |     -      | 3.20       |   3.20       |
+| colony_id | Species                    | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|----------------------------|------------|------------|--------------|
+| 163       | *Pocillopora tuahiniensis* |   3.22     | 4.30       |   3.76       |
+| 164       | *Pocillopora tuahiniensis* |     -      | 3.36       |   3.36       |
+| 168       | *Pocillopora tuahiniensis* |     -      | 3.32       |   3.32       |
+| 169       | *Pocillopora tuahiniensis* |     -      | 3.92       |   3.92       |
+| 170       | *Pocillopora tuahiniensis* |   2.72     | 4.74       |   3.73       |
+| 171       | *Pocillopora tuahiniensis* |     -      | 3.20       |   3.20       |
 
 
 
 RNA Standards: 412.83 (S1) and 7941.44 (S2)
 
-| colony_id | Species                   | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
-|-----------|---------------------------|------------|------------|--------------|
-| 163       | *Pocillopora*	         	|   34.0     | 36.8       |   35.4       |
-| 164       | *Pocillopora*	            |   16.8     | 20.8       |   18.8       |
-| 168       | *Pocillopora*	            |   25.2     | 31.0       |   28.1       |
-| 169       | *Pocillopora*	            |   22.2     | 27.8       |   25.0       |
-| 170       | *Pocillopora*	            |   16.8     | 24.4       |   20.6       |
-| 171       | *Pocillopora*	            |   15.0     | 25.2       |   20.1       |
+| colony_id | Species                    | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|----------------------------|------------|------------|--------------|
+| 163       | *Pocillopora tuahiniensis* |   34.0     | 36.8       |   35.4       |
+| 164       | *Pocillopora tuahiniensis* |   16.8     | 20.8       |   18.8       |
+| 168       | *Pocillopora tuahiniensis* |   25.2     | 31.0       |   28.1       |
+| 169       | *Pocillopora tuahiniensis* |   22.2     | 27.8       |   25.0       |
+| 170       | *Pocillopora tuahiniensis* |   16.8     | 24.4       |   20.6       |
+| 171       | *Pocillopora tuahiniensis* |   15.0     | 25.2       |   20.1       |
 
 
 - DNA samples in box 1 in -20 freezer, RNA samples in box 1 in -80 freezer
