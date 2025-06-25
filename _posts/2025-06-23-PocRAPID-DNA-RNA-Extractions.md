@@ -11,7 +11,7 @@ tags: [DNA, RNA, PocRAPID]
 ### [Protocol Link](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/172f01784174bebceccae246c713908b109356b2/protocols/2025-05-28-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
 
-### Extraction of 6 pocillopora larva samples from PocRAPID project. The samples were collected in Bermuda throughout 2024. 
+### Extraction of 6 pocillopora larva samples from PocRAPID project. The samples were collected in Moorea throughout 2024. 
 
 ### Samples
 
