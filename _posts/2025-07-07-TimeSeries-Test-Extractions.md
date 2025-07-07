@@ -65,6 +65,6 @@ RNA Standards: 448.00 (S1) and 8200.78 (S2)
 
 Ran at 80 volts for 45 minutes
 
-![gel image](../images/2025-07-07-Test-gel.jpg)
+![gel image](../images/2025-07-07-test-gel.jpg)
 
 Gel notes: RNA samples P1, P2, P3, M1, M2 and M3, and DNA P1 dissipated into the buffer when loading
