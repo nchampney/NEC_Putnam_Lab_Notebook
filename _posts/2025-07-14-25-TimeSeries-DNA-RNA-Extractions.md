@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 2025-07-14 TimeSeries RNA and DNA Test extractions
+title: 2025-07-14 Time Series RNA and DNA Test extractions
 date: '2025-07-14'
 categories: Processing
-tags: [DNA, RNA, TimeSeries]
+tags: [DNA, RNA, Time Series]
 ---
 
-## RNA and DNA extractions for TimeSeries Project, July 14, 2025
+## RNA and DNA extractions for Time Series Project, July 14, 2025
 
 ### [Protocol Link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/2022-10-03-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
 
-### Extraction of 8 random samples from the TimeSeries experiment done in June and July of 2025. The samples include all 3 species involved in the experiment.
+### Extraction of 8 random samples from the Time Series experiment done in June and July of 2025. The samples include all 3 species involved in the experiment.
 
 ### Samples
 
