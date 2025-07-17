@@ -19,6 +19,8 @@ The sample IDs are MON 24 C3, MON 72 H2, MON 120 C3, POC 0 C2, POC 3 C1, POC 12 
 
 ![sample image](../images/2025-07-14-sample-image.jpg)
 
+Image taken after bead beating
+
 Notes: Next time I will try dilluting the DNA/RNA shield of the Montipora samples to try to improve the RNA yield from that species. 
 
 ## Notes

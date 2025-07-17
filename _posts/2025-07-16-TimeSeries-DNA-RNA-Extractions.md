@@ -40,8 +40,8 @@ DNA Standards: 163.03 (S1) and 18996.60 (S2)
 | 3 C2      | *Pocillopora acuta*        |   38.0     | 38.4       |   38.2       |
 | 12 C2     | *Pocillopora acuta*        |   44.2     | 45.0       |   44.6       |
 | 24 C2     | *Pocillopora acuta*        |   44.2     | 45.2       |   44.7       |
-| 3 C1      | *Montipora capitat*        |   10.0     | 10.3       |   10.15      |
-| 12 C3     | *Montipora capitat*        |   15.8     | 16.3       |   16.05      |
+| 3 C1      | *Montipora capitata*       |   10.0     | 10.3       |   10.15      |
+| 12 C3     | *Montipora capitata*       |   15.8     | 16.3       |   16.05      |
 | 0 C1      | *Porites compressa*        |   16.8     | 17.1       |   16.95      |
 | 72 C3     | *Porites compressa*        |   7.76     | 7.68       |   7.72       |
 | 72 H2     | *Porites compressa*        |   6.06     | 5.94       |   6.00       |
@@ -53,8 +53,8 @@ RNA Standards: 376.61 (S1) and 8030.02 (S2)
 | 3 C2      | *Pocillopora acuta*        |   26.4     | 26.6       |   26.5       |
 | 12 C2     | *Pocillopora acuta*        |   21.0     | 21.4       |   21.2       |
 | 24 C2     | *Pocillopora acuta*        |   29.2     | 29.4       |   29.3       |
-| 3 C1      | *Montipora capitat*        |     -      |   -        |     -        |
-| 12 C3     | *Montipora capitat*        |     -      |   -        |     -        |
+| 3 C1      | *Montipora capitata*       |     -      |   -        |     -        |
+| 12 C3     | *Montipora capitata*       |     -      |   -        |     -        |
 | 0 C1      | *Porites compressa*        |   24.0     | 24.0       |   24.0       |
 | 72 C3     | *Porites compressa*        |   16.6     | 16.6       |   16.6       |
 | 72 H2     | *Porites compressa*        |   10.0     | 10.2       |   10.1       |
