@@ -15,7 +15,7 @@ tags: [DNA, RNA, Time Series]
 
 ### Samples
 
-The sample IDs are POC 24 H3, POC 72 C1, POC 72 H3, MON 0 C3, MON 12 C1, POR 1 H2, POR 3 3 C3, and POR 120 C1.  
+The sample IDs are POC 24 H3, POC 72 C1, POC 72 H3, MON 0 C3, MON 12 C1, POR 1 H2, POR 3 C3, and POR 120 C1.  
 
 ![sample image](../images/2025-07-17-sample-image.jpg)
 
