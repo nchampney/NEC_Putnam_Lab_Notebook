@@ -70,6 +70,6 @@ RNA Standards: 388.98 (S1) and 8083.73 (S2)
 
 Ran at 80 volts for 45 minutes
 
-![gel image](../images/2025-07-22-Timeseries-gel.jpg)
+![gel image](../images/2025-07-22-TimeSeries-gel.jpg)
 
 Note: DNA samples are shifted over a well because of an air bubble in the agarose. 
