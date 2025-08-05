@@ -72,4 +72,4 @@ RNA Standards: 374.74  (S1) and 7761.36 (S2)
 
 Ran at 80 volts for 45 minutes
 
-![gel image](../images/2025-08-05-TimeSeries-gel.jpg)
+![gel image](../images/2025-08-05-Timeseries-gel.jpg)
