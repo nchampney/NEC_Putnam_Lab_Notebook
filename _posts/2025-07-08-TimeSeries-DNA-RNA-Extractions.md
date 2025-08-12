@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-07-08 TimeSeries RNA and DNA Test extractions
+title: 2025-07-08 TimeSeries RNA and DNA extractions
 date: '2025-07-08'
 categories: Processing
 tags: [DNA, RNA, TimeSeries]
