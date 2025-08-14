@@ -1,21 +1,21 @@
 ---
 layout: post
-title: 2025-08-12 Time Series RNA Re-extractions
-date: '2025-08-12'
+title: 2025-08-14 Time Series RNA Re-extractions
+date: '2025-08-14'
 categories: Processing
 tags: [DNA, RNA, Time Series]
 ---
 
-## RNA Re-extractions for Time Series Project, August 7, 2025
+## RNA Re-extractions for Time Series Project, August 14, 2025
 
 ### [Protocol Link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/2022-10-03-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
 
-### Re-extraction of 5 *Montipora capitata* samples from the Time Series experiment done in June and July of 2025. These samples did not yield enough RNA to be measured by HS RNA Qubit so re-extraction was needed.
+### Re-extraction of 4 *Montipora capitata* samples from the Time Series experiment done in June and July of 2025. These samples did not yield enough RNA to be measured by HS RNA Qubit so re-extraction was needed.
 
 ### Samples
 
-The sample IDs are MON 0 H1, MON 1 H1, MON 3 H1, MON 24 H3, and MON 120 C1.
+The sample IDs are MON 24 H1, MON 24 C2, MON 120 C2, and MON 120 C3.
 
 ![sample image](../images/2025-08-12-sample-image.jpg)
 
