@@ -34,28 +34,31 @@ multiqc ../outputs/rawqc/`
 
 ## Results from the fastqc files
 
-R1 files
+ <style>span[class="checked"]{color: green;}</style>
+ <style>span[class="unchecked"]{color: red;}</style>
 
+R1 files
+ 
 | File name | Per base sequence quality | Per tile sequence quality | Per sequence quality scores | Per base sequence content | Per sequence GC content | Per base N content | Sequence length distribution| Sequence Duplication levels | Overrepresented sequences | Adapter content |
 |-----------|---------------------------|---------------------------|-----------------------------|---------------------------|-------------------------|--------------------|-----------------------------|-----------------------------|---------------------------|-----------------|
-| 1_12C3_5uL|           \u2705          |          \u2705           |          \u2705             |           \u274c          |          \u274c         |        \u2705      |             \u2705          |            \u274c           |            !              |     \u274c      |
-| 4_12C3_3uL|         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |        \u274c             |       !         |
-| 2_1H1_5uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |            !              |       !         |
-| 5_1H1_3uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |            !              |       !         |
-| 3_3C3_5uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |            !              |       !         |
-| 6_3C3_3uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |            !              |      \u2705     |
+| 1_12C3_5uL|           ✅          |          ✅           |          ✅             |           ❌          |          ❌         |        ✅      |             ✅          |            ❌           |            !              |     ❌      |
+| 4_12C3_3uL|         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |        ❌             |       !         |
+| 2_1H1_5uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |            !              |       !         |
+| 5_1H1_3uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |            !              |       !         |
+| 3_3C3_5uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |            !              |       !         |
+| 6_3C3_3uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |            !              |      ✅     |
 
 
 R2 files
 
 | File name | Per base sequence quality | Per tile sequence quality | Per sequence quality scores | Per base sequence content | Per sequence GC content | Per base N content | Sequence length distribution| Sequence Duplication levels | Overrepresented sequences | Adapter content |
 |-----------|---------------------------|---------------------------|-----------------------------|---------------------------|-------------------------|--------------------|-----------------------------|-----------------------------|---------------------------|-----------------|
-| 1_12C3_5uL|           \u2705          |          \u2705           |          \u2705             |           \u274c          |          \u274c         |        \u2705      |             \u2705          |            \u274c           |         \u274c            |     \u274c      |
-| 4_12C3_3uL|         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |        \u274c             |       !         |
-| 2_1H1_5uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |         \u274c            |       !         |
-| 5_1H1_3uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |         \u274c            |       !         |
-| 3_3C3_5uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |         \u274c            |      \u274c     |
-| 6_3C3_3uL |         \u2705            |          \u2705           |          \u2705             |           \u274c          |         \u274c          |        \u2705      |             \u2705          |            \u274c           |         \u274c            |      \u2705     |
+| 1_12C3_5uL|           ✅          |          ✅           |          ✅             |           ❌          |          ❌         |        ✅      |             ✅          |            ❌           |         ❌            |     ❌      |
+| 4_12C3_3uL|         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |        ❌             |       !         |
+| 2_1H1_5uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |         ❌            |       !         |
+| 5_1H1_3uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |         ❌            |       !         |
+| 3_3C3_5uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |         ❌            |      ❌     |
+| 6_3C3_3uL |         ✅            |          ✅           |          ✅             |           ❌          |         ❌          |        ✅      |             ✅          |            ❌           |         ❌            |      ✅     |
 
 Sequence lengths across all files is 151 bp, and there were no sequences flagged for poor quality with any of them. 
 
